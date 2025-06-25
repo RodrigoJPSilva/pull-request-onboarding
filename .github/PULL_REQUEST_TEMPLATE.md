@@ -3,21 +3,20 @@
 Bem-vindos a sua primeira pull request; este é um passo muito importante na sua trilha como desenvolvedor.
 
 ## Turma 
-<!-- Ex: Turma: Desenvolvedor Front-end -->
 **Turma:**
+Desenvolvedor Front-end
 
 ## Usuário
-<!-- Ex: @lucascorreaa -->
 **Github Username:**
+@RodrigoJPSilva
 
 ## Descrição
-<!-- Descreva sucintamente o que este PR adiciona ou corige -->
 **Descrição:**
-
+Novo usuário adicionado ao sistema
 --
 ## Checklist
-- [ ] Verifiquei se este PR segue o padrão descrito
-- [ ] Adicionei todos os campos solicitados
+- [x] Verifiquei se este PR segue o padrão descrito
+- [x] Adicionei todos os campos solicitados
 
 --
 ## Issues Relacionadas 
